@@ -52,7 +52,7 @@ cd repository-name
 
 # Install required libraries
 pip install -r requirements.txt
-
+ bash '''
 ---
 
 ### **Usage**
